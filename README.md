@@ -152,7 +152,7 @@ Track session activity, review uploaded documents, or delete outdated sessions t
 ---
 
 ## 🌐 Live URL
-### ---
+### https://l-a-m-b-d-a.streamlit.app
 
 ---
 
