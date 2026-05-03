@@ -157,5 +157,10 @@ Track session activity, review uploaded documents, or delete outdated sessions t
 ---
 
 ## 👤 Author
-Built by **Nouman Fazil** — Student at NED University, exploring real-world AI systems and RAG pipelines.
+Built by **Team LAMBDA** from HEC Generative AI Hackathon.
 ````
+
+
+
+
+
