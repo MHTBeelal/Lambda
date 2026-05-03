@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="static/images.png" alt="StudyMate Logo" width="400"/>
+  <img src="static/imag.png" alt="StudyMate Logo" width="400"/>
   <h1>StudyMate 📚</h1>
   <p><b>Your AI-powered academic co-pilot for focused learning.</b></p>
   <p>🎯 Session-Based Learning · 🧠 Smart Document Q&A · ⚡ Context-Aware RAG</p>
