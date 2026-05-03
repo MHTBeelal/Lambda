@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
   <img src="static/img.png" alt="Lambda Logo" width="400"/>
   <h1>Lambda 📚</h1>
